@@ -1,6 +1,6 @@
 # ⚽ Timestamped Football Odds incl. Pinnacle — 44 European Leagues: Eredivisie, Super Lig, Scottish Premiership + 41 More (free sample)
 
-**Free sample: 47 matches out of 92,615, one or more from each of the 44 leagues.** Same files, same
+**Free sample: 44 matches out of 92,615, one from each of the 44 leagues.** Same files, same
 columns, same formats as the full product. Only the number of matches differs.
 
 Most football odds datasets give you one closing number per match. The full product gives you
@@ -16,7 +16,7 @@ exact time each was recorded, and 4,705,054 dated snapshots from 37 more bookmak
 
 | Path | What it is |
 |---|---|
-| `sample/` | The free 47-match sample: same files, same columns as the full product |
+| `sample/` | The free 44-match sample: same files, same columns as the full product |
 | `OEL_Verify_Before_You_Buy.ipynb` | *Verify before you buy*: every figure of the listing recomputed on the **full** product, outputs included |
 
 Also on [Hugging Face](https://huggingface.co/datasets/oliviersportsdata/Other-European-Leagues-Timestamped-Odds-Pinnacle-Match-Stats), with a table viewer, and on [Kaggle](https://www.kaggle.com/datasets/oliviersportsdata/44-european-leagues-odds-with-pinnacle-sample).
@@ -27,17 +27,17 @@ Also on [Hugging Face](https://huggingface.co/datasets/oliviersportsdata/Other-E
 
 | Table | Sample | Full product |
 |---|---:|---:|
-| Odds_Timestamped | 103,484 | 132,116,120 |
-| Minute_Stats | 20,911 | 22,283,236 |
-| Bookmaker_Snapshots | 3,142 | 4,705,054 |
-| Lineups | 1,097 | 1,991,938 |
-| Events | 1,237 | 1,962,298 |
-| Team_Stats | 94 | 185,230 |
-| Opening_Closing | 47 | 92,615 |
-| Matches | 47 | 92,615 |
+| Odds_Timestamped | 96,262 | 132,116,120 |
+| Minute_Stats | 18,924 | 22,283,236 |
+| Bookmaker_Snapshots | 2,916 | 4,705,054 |
+| Lineups | 971 | 1,991,938 |
+| Events | 1,091 | 1,962,298 |
+| Team_Stats | 88 | 185,230 |
+| Opening_Closing | 44 | 92,615 |
+| Matches | 44 | 92,615 |
 
-The 47 matches: the most recent match of each of the 44 leagues (September 2026), picked among the league's
-last matchdays as the one with the most complete data, plus 3 matches chosen for what they show: the Old Firm
+The 44 matches, one per league: for 41 leagues the most recent match (September 2026), picked among the league's
+last matchdays as the one with the most complete data; for the other 3, a match chosen for what it shows: the Old Firm
 shown quote by quote below, a play-off second leg decided on penalties, and a match whose kickoff time in the
 source is a day late. 1 went to extra time, 1 to a penalty shoot-out.
 
@@ -72,7 +72,6 @@ source is a day late. 1 went to extra time, 1 to a penalty shoot-out.
 | Moldova | Moldovan Super Liga | 2026/27 | Regular Season, matchday 13 | 2026-09-20 | FC Real Sireti – FC Milsami | 1-2 |  |
 | Montenegro | Montenegrin First League | 2026/27 | Regular Season, matchday 9 | 2026-09-20 | FK Decic Tuzi – FK Mornar Bar | 1-1 |  |
 | Netherlands | Eredivisie | 2025/26 | Play-Offs, leg 2 | 2026-05-23 | FC Volendam – Willem II | 1-2 · 1-2 aet · 4-5 pens · agg 3-3 | play-off second leg: extra time, penalties, aggregate |
-| Netherlands | Eredivisie | 2026/27 | Regular Season, matchday 7 | 2026-09-20 | NEC – Go Ahead Eagles | 1-1 |  |
 | North Macedonia | Macedonian First League | 2026/27 | Regular Season, matchday 8 | 2026-09-23 | Bregalnica Stip – FK Skopje | 1-0 |  |
 | Northern Ireland | NIFL Premiership | 2026/27 | Regular Season, matchday 9 | 2026-09-26 | Crusaders – Bangor FC | 2-1 |  |
 | Norway | Eliteserien | 2026 | Regular Season, matchday 22 | 2026-09-20 | SK Brann – Bodo/Glimt | 2-1 |  |
@@ -80,12 +79,10 @@ source is a day late. 1 went to extra time, 1 to a penalty shoot-out.
 | Romania | Liga I | 2026/27 | Regular Season, matchday 10 | 2026-09-21 | Petrolul Ploiesti – FK Csikszereda Miercurea Ciuc | 2-0 |  |
 | Russia | Russian Premier League | 2026/27 | Regular Season, matchday 9 | 2026-09-17 | Dynamo Makhachkala – CSKA Moscow | 1-3 | since 2022: Pinnacle only among the 5 books, no events, no minute stats |
 | Scotland | Scottish Premiership | 2025/26 | Regular Season, matchday 21 | 2026-01-03 | Celtic – Rangers | 1-3 | the match shown quote by quote below |
-| Scotland | Scottish Premiership | 2026/27 | Regular Season, matchday 7 | 2026-09-20 | Celtic – Rangers | 0-1 |  |
 | Serbia | Serbian SuperLiga | 2026/27 | Regular Season, matchday 10 | 2026-09-20 | FK Zeleznicar Pancevo – FK Cukaricki | 2-1 |  |
 | Slovakia | Slovak First League | 2026/27 | Regular Season, matchday 9 | 2026-09-20 | Dunajska Streda – FC Spartak Trnava | 2-2 |  |
 | Slovenia | Slovenian PrvaLiga | 2026/27 | Regular Season, matchday 10 | 2026-09-20 | NK Brinje Grosuplje – NK Radomlje | 2-1 |  |
 | Sweden | Allsvenskan | 2024 | Regular Season, matchday 27 | 2024-10-21 | Hammarby – Djurgarden | 2-0 | kickoff in the source: 2024-10-21 12:00 UTC; played 2024-10-20, pre-match cut at the real start |
-| Sweden | Allsvenskan | 2026 | Regular Season, matchday 22 | 2026-09-20 | Mjällby AIF – GAIS | 0-3 |  |
 | Switzerland | Swiss Super League | 2026/27 | Regular Season, matchday 9 | 2026-09-20 | FC Lausanne-Sport – Lugano | 0-4 |  |
 | Turkiye | Super Lig | 2026/27 | Regular Season, matchday 6 | 2026-09-20 | Goztepe – Caykur Rizespor | 2-2 |  |
 | Ukraine | Ukrainian Premier League | 2026/27 | Regular Season, matchday 7 | 2026-09-20 | Shakhtar Donetsk – LNZ Lebedyn | 3-0 |  |
