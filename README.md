@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33925920/README.md)
 # ⚽ Timestamped Football Odds incl. Pinnacle — 44 European Leagues: Eredivisie, Super Lig, Scottish Premiership + 41 More (free sample)
 
 **Free sample: 47 matches out of 92,615, one or more from each of the 44 leagues.** Same files, same
