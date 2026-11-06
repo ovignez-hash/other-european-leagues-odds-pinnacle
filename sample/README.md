@@ -1,6 +1,6 @@
-# FREE SAMPLE - 47 matches
+# FREE SAMPLE - 44 matches
 
-This sample is an exact copy of the full product: same files, same columns, same formats. Only the number of matches differs: the most recent match of each of the 44 leagues (September 2026), plus 3 matches chosen for what they show (the Old Firm of 3 January 2026, a play-off second leg decided on penalties, a match whose kickoff time in the source is a day late). `OtherEurope_Coverage.csv` is the full product's coverage table, league by league and season by season.
+This sample is an exact copy of the full product: same files, same columns, same formats. Only the number of matches differs: one match from each of the 44 leagues, the most recent one (September 2026) for 41 of them and, for the other 3, a match chosen for what it shows (the Old Firm of 3 January 2026, a play-off second leg decided on penalties, a match whose kickoff time in the source is a day late). `OtherEurope_Coverage.csv` is the full product's coverage table, league by league and season by season.
 
 | Match_ID | Code | Season | Stage | Kickoff_UTC (date) | Match | Result |
 |---|---|---|---|---|---|---|
@@ -33,7 +33,6 @@ This sample is an exact copy of the full product: same files, same columns, same
 | 12461619 | MDA | 2026/27 | Regular Season | 2026-09-20 | FC Real Sireti - FC Milsami | 1-2 |
 | 12103982 | MNE | 2026/27 | Regular Season | 2026-09-20 | FK Decic Tuzi - FK Mornar Bar | 1-1 |
 | 11905281 | NED | 2025/26 | Play-Offs | 2026-05-23 | FC Volendam - Willem II | 1-2 · 1-2 aet · 4-5 pens · agg 3-3 |
-| 12026912 | NED | 2026/27 | Regular Season | 2026-09-20 | NEC - Go Ahead Eagles | 1-1 |
 | 12023068 | MKD | 2026/27 | Regular Season | 2026-09-23 | Bregalnica Stip - FK Skopje | 1-0 |
 | 12109440 | NIR | 2026/27 | Regular Season | 2026-09-26 | Crusaders - Bangor FC | 2-1 |
 | 11161556 | NOR | 2026 | Regular Season | 2026-09-20 | SK Brann - Bodo/Glimt | 2-1 |
@@ -41,12 +40,10 @@ This sample is an exact copy of the full product: same files, same columns, same
 | 12122289 | ROU | 2026/27 | Regular Season | 2026-09-21 | Petrolul Ploiesti - FK Csikszereda Miercurea Ciuc | 2-0 |
 | 12101925 | RUS | 2026/27 | Regular Season | 2026-09-17 | Dynamo Makhachkala - CSKA Moscow | 1-3 |
 | 10132409 | SCO | 2025/26 | Regular Season | 2026-01-03 | Celtic - Rangers | 1-3 |
-| 12064253 | SCO | 2026/27 | Regular Season | 2026-09-20 | Celtic - Rangers | 0-1 |
 | 13129013 | SRB | 2026/27 | Regular Season | 2026-09-20 | FK Zeleznicar Pancevo - FK Cukaricki | 2-1 |
 | 12029964 | SVK | 2026/27 | Regular Season | 2026-09-20 | Dunajska Streda - FC Spartak Trnava | 2-2 |
 | 12087434 | SVN | 2026/27 | Regular Season | 2026-09-20 | NK Brinje Grosuplje - NK Radomlje | 2-1 |
 | 7608414 | SWE | 2024 | Regular Season | 2024-10-21 | Hammarby - Djurgarden | 2-0 |
-| 11176416 | SWE | 2026 | Regular Season | 2026-09-20 | Mjällby AIF - GAIS | 0-3 |
 | 12057931 | SUI | 2026/27 | Regular Season | 2026-09-20 | FC Lausanne-Sport - Lugano | 0-4 |
 | 12205883 | TUR | 2026/27 | Regular Season | 2026-09-20 | Goztepe - Caykur Rizespor | 2-2 |
 | 12127217 | UKR | 2026/27 | Regular Season | 2026-09-20 | Shakhtar Donetsk - LNZ Lebedyn | 3-0 |
