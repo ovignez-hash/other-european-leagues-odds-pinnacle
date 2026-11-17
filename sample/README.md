@@ -49,7 +49,7 @@ This sample is an exact copy of the full product: same files, same columns, same
 | 12127217 | UKR | 2026/27 | Regular Season | 2026-09-20 | Shakhtar Donetsk - LNZ Lebedyn | 3-0 |
 | 12150598 | WAL | 2026/27 | Regular Season | 2026-09-29 | Cardiff MU - Haverfordwest County | 1-0 |
 
-Full product (all 92,615 matches): **[→ Get the full dataset on Gumroad](https://sportsdataolivier.gumroad.com/l/aplpqd?utm_source=sample_readme&utm_medium=readme&utm_campaign=oel_premium&utm_content=sample_readme)**
+Full product (all 92,615 matches): **[→ Get the full dataset on Gumroad](https://sportsdataolivier.gumroad.com/l/aplpqd?utm_source=github&utm_medium=sample_readme&utm_campaign=oel_premium&utm_content=readme)**
 
 Questions: contact@oliviersportsdata.com
 
