@@ -10,6 +10,10 @@ exact time each was recorded, and 4,705,054 dated snapshots from 37 more bookmak
 
 ⚽ **[→ Get the full dataset on Gumroad](https://sportsdataolivier.gumroad.com/l/aplpqd?utm_source=github&utm_medium=repo&utm_campaign=oel_premium&utm_content=readme_top)** — 92,615 matches, 44 top flights, 482 league-seasons, 2016–2026.
 
+## Custom extracts: your leagues, your bookmakers
+
+The full product shows the full range of what I hold. Its 5 bookmakers are my own deliberate selection, made to keep the file readable: every bettor has their own reference books, often the local operators of their country. Other international and local bookmakers are available for many competitions, and you can keep only the countries, leagues, seasons and markets you need. Send your list (competitions, seasons, bookmakers, markets) to [contact@oliviersportsdata.com](mailto:contact@oliviersportsdata.com): I confirm the coverage first, then build the extract from the same data, with the same checks.
+
 ---
 
 ## In this repository
